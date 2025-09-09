@@ -1,4 +1,4 @@
- # SistemaSolar 🌌 Projeto Estelar #
+ # SistemaSolar 🌌 Projeto #
 
 
 
