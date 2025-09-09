@@ -1,4 +1,4 @@
- # SistemaSolar 🌌 Projeto Estelar - Sistema Solar Binário com Anã Vermelha #
+ # SistemaSolar 🌌 Projeto Estelar #
 
 
 
